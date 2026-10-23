@@ -1,0 +1,9 @@
+event_type,market,n_events,avg_abs_move_event_%,avg_abs_move_normal_%,ratio,p_value
+FOMC,SPY,16,1.22,0.588,2.076,0.0
+FOMC,TLT,16,0.932,0.55,1.697,0.03
+FOMC,UUP,16,0.52,0.251,2.068,0.038
+FOMC,GLD,16,1.023,0.586,1.746,0.01
+NFP,SPY,12,0.86,0.6,1.433,0.458
+NFP,TLT,12,0.747,0.556,1.343,0.063
+NFP,UUP,12,0.284,0.258,1.097,0.245
+NFP,GLD,12,0.852,0.593,1.437,0.073
