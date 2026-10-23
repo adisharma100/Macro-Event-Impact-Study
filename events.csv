@@ -1,0 +1,29 @@
+date,event_type,detail,fed_change_bp
+2023-02-01,FOMC,Rate decision,25
+2023-03-22,FOMC,Rate decision,25
+2023-05-03,FOMC,Rate decision,25
+2023-06-14,FOMC,Rate decision,0
+2023-07-26,FOMC,Rate decision,25
+2023-09-20,FOMC,Rate decision,0
+2023-11-01,FOMC,Rate decision,0
+2023-12-13,FOMC,Rate decision,0
+2024-01-31,FOMC,Rate decision,0
+2024-03-20,FOMC,Rate decision,0
+2024-05-01,FOMC,Rate decision,0
+2024-06-12,FOMC,Rate decision,0
+2024-07-31,FOMC,Rate decision,0
+2024-09-18,FOMC,Rate decision,-50
+2024-11-07,FOMC,Rate decision,-25
+2024-12-18,FOMC,Rate decision,-25
+2024-01-05,NFP,US jobs report,
+2024-02-02,NFP,US jobs report,
+2024-03-08,NFP,US jobs report,
+2024-04-05,NFP,US jobs report,
+2024-05-03,NFP,US jobs report,
+2024-06-07,NFP,US jobs report,
+2024-07-05,NFP,US jobs report,
+2024-08-02,NFP,US jobs report,
+2024-09-06,NFP,US jobs report,
+2024-10-04,NFP,US jobs report,
+2024-11-01,NFP,US jobs report,
+2024-12-06,NFP,US jobs report,
